@@ -1,3 +1,11 @@
+#CARPETAS
+/admin/*
+
+#ARCHIVOS DE CONEXIÓN
+/clases/config.ini
+/clases/config2.php
+/calendar/application/database.php
+
+#EXTENCIONES
 *.xls
 *.xlsx
-/prueba/*
